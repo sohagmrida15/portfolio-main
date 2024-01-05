@@ -1,0 +1,31 @@
+/* Common Css */
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.text-primary {
+    color: #FD6E0A;
+}
+
+/* Nav Related CSS */
+.nav-title {
+    font-size: 45px;
+    font-weight: 800;
+}
+
+nav {
+    display: flex;
+}
+
+nav>ul {
+    display: flex;
+}
+
+nav li {
+    list-style: none;
+    margin-left: ;
+}
+
+nav a {
+    text-decoration: none;
+}
