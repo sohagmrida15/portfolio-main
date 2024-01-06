@@ -50,7 +50,7 @@ nav a {
  background-color: #FFF8F3;
 }
 .banner{
-    padding: 30px 30px 30px 150px;
+    padding: 30px 20px 0px 150px;
     display: flex;
     align-items: center;
     background-image: url(images/header_bg.png);
